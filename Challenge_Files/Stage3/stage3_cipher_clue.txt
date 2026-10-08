@@ -1,0 +1,7 @@
+STAGE 3 — CIPHER CLUE
+=====================
+
+The memo is Base64-encoded after encryption.
+Use the keyword recovered from Stage 2.
+The same keyword is applied repeatedly across the data.
+CyberChef or a short Python script can be used to decode it.

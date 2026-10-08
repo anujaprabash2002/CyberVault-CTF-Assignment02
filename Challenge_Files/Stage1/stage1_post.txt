@@ -1,0 +1,20 @@
+CYBERVAULT INCIDENT — LEAKED POST EXPORT
+===========================================
+
+Platform: Internal Social Feed (simulated)
+Post ID: CV-2026-0817
+Posted by: @leaked_post
+Date: 17 August 2026
+Time: 22:41
+
+Post Text:
+"We found a copy of the archive photo from the east entrance.
+Do not share the original file publicly. Something important
+was left behind in the image."
+
+Attached media:
+east_archive_entrance.jpg
+
+Investigator Note:
+The account name and the attached media file may contain
+different parts of the clue. Examine the file carefully.

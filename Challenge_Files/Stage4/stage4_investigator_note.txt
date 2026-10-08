@@ -1,0 +1,9 @@
+STAGE 4 — EVIDENCE UNDER INVESTIGATION
+
+Evidence file:
+stage4_suspicious_evidence.jpg
+
+Investigator note:
+The image may contain additional information beyond its visible content.
+Begin with metadata and strings, then inspect the file structure for
+embedded content.
