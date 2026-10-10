@@ -1,0 +1,3 @@
+Cipher: XOR + Base64
+Key hint: found in Stage 2
+Decode Base64 first, then XOR decrypt using the keyword
