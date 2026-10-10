@@ -1,0 +1,10 @@
+# VirtualBox appliance and virtual disk files
+*.ova
+*.ovf
+*.vdi
+*.vmdk
+
+# Temporary files and logs
+*.log
+*.tmp
+Thumbs.db
