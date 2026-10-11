@@ -1,0 +1,14 @@
+CyberVault CTF - Devindi Integration Smoke Test
+Date: 2026-10-11 02:59:14 UTC
+Host: Ubuntu
+
+PASS: Docker engine is accessible
+PASS: Container is running: ctfd-nginx-1
+PASS: Container is running: ctfd-ctfd-1
+PASS: Container is running: ctfd-db-1
+PASS: Container is running: ctfd-cache-1
+PASS: CTFd HTTP endpoint responded with status 200
+SKIP: Stage 6 SSH check not run; set STAGE6_IP to the current authorized Host-Only IP
+
+Summary: 6 PASS, 0 FAIL, 1 SKIP
+Report saved to: /home/anuja/Devindi_Integration_Test_Results.txt
